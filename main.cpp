@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-    cout << "Software Security Exam" << endl;
-    cout << "Name: Syed Aadil Ahmed" << endl;
-    cout << "Student ID: 4339" << endl;
+    cout << "SSD Exam" << endl;
+    cout << "Name: Fakeha Shakeel" << endl;
+    cout << "Student ID: 23K-2039" << endl;
     return 0;
 }
